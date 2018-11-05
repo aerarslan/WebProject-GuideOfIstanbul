@@ -9,3 +9,11 @@ The main goal of this project is to show people the most important things about 
 ### Notice
 
 This project is developed with HTML5, CSS3, JavaScript
+
+## How Does The Project Look Like?
+
+![guideofistanbul1](https://user-images.githubusercontent.com/42182119/48029936-92c08280-e160-11e8-8681-40971c4ddd3e.jpg)
+## -------------------------------------------------------------------------------------------
+![guideofistanbul2](https://user-images.githubusercontent.com/42182119/48029939-9522dc80-e160-11e8-8ebc-a8ab908126ba.jpg)
+## -------------------------------------------------------------------------------------------
+![guideofistanbul3](https://user-images.githubusercontent.com/42182119/48029940-96eca000-e160-11e8-9687-160a22a182d7.jpg)
